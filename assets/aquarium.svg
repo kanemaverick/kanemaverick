@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="100" viewBox="0 0 840 100" role="img" aria-labelledby="title desc">
+  <title id="title">ASCII aquarium</title>
+  <desc id="desc">A small shoal swims beside a larger fish above seaweed and a rocky seabed.</desc>
+  <style>
+    text { font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace; font-size: 12px; white-space: pre; }
+    .command { font-size: 11px; }
+    @keyframes swim { from { transform: translateX(-10px) } to { transform: translateX(14px) } }
+    @media (prefers-reduced-motion: no-preference) {
+      .swim { animation: swim 17s ease-in-out infinite alternate; }
+      .sea-ray { animation-duration: 22s; }
+      .sea-fry { animation-direction: alternate-reverse; animation-duration: 19s; }
+      .sea-silver-2 { animation-delay: -12s; }
+    }
+  </style>
+  <rect x=".5" y=".5" width="839" height="99" fill="#10191d" rx="6" stroke="#2a3939"/>
+  <text class="command" x="12" y="20" fill="#94aca3"><tspan fill="#8ec9b2">$</tspan> aquarium</text>
+  <text class="sea-reef-a" fill="#607c73"><tspan x="25.2" y="72">  )    (</tspan><tspan x="25.2" y="84"> ( )  ( )</tspan><tspan x="25.2" y="96">__\)__/(__ .. _</tspan></text>
+  <text class="sea-reef-b" fill="#607c73"><tspan x="681.4" y="72">        )    (</tspan><tspan x="681.4" y="84">   _   ( \  ( )</tspan><tspan x="681.4" y="96">._/ \___\_)__)\__</tspan></text>
+  <text class="sea-grit" fill="#4d645d"><tspan x="184.8" y="95">.     ... _    . ..       _......       .    .</tspan></text>
+  <text class="sea-silver swim" fill="#7a9c90"><tspan x="117.6" y="48">&gt;&lt;('&gt;</tspan></text>
+  <text class="sea-silver-2 swim" fill="#7a9c90"><tspan x="193.2" y="68">&gt;&lt;('&gt;</tspan></text>
+  <text class="sea-ray swim" fill="#b1dbc5"><tspan x="344.4" y="37">      _/\_</tspan><tspan x="344.4" y="49">|\_.-'    `-._</tspan><tspan x="344.4" y="61">| _.  ((   o  &gt;</tspan><tspan x="344.4" y="73">|/  `-.____,-'</tspan></text>
+  <text class="sea-fry swim" fill="#81ad9a"><tspan x="571.2" y="58">&lt;')&gt;&lt;</tspan></text>
+  <text class="sea-bubbles" fill="#64887a"><tspan x="302.4" y="30"> .</tspan><tspan x="302.4" y="42">  o</tspan></text>
+  <text class="sea-bubbles-2" fill="#68867a"><tspan x="672.0" y="25">o</tspan><tspan x="672.0" y="37">  .</tspan></text>
+</svg>
