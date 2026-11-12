@@ -1,8 +1,11 @@
+<p>
 <picture>
   <source media="(max-width: 700px)" srcset="./assets/mobile.svg">
   <img src="./assets/desktop.svg" width="840" alt="Kane Xie (KM) at Tongji University. Marine science, underwater robotics, AI and physics. An ASCII rendering of my GitHub avatar alongside my public GitHub activity.">
 </picture>
+</p>
 
+<p>
 <a href="https://github.com/kanemaverick/TJSOES-GisAgent/blob/main/assets/rainfall.png">
   <picture>
     <source media="(max-width: 700px) and (prefers-reduced-motion: reduce)" srcset="./assets/gis-demo-mobile.png">
@@ -11,6 +14,7 @@
     <img src="./assets/gis-demo.gif" width="840" alt="TJSOES-GisAgent example walkthrough. A GIS command and a character rendering of the published 2016 Shanghai rainfall map. Open the original map.">
   </picture>
 </a>
+</p>
 
 <details>
 <summary>More about me</summary>
