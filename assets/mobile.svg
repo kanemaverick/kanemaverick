@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="376" height="610" viewBox="0 0 376 610" role="img" aria-labelledby="title desc">
 <title id="title">Kane Xie — GitHub profile</title>
-<desc id="desc">Name: Kane Xie / KM. Host: Tongji University. Major: Marine Science. Focus: Underwater robotics. Interests: AI, physics, ocean engineering. Languages: Python, HTML, Dart. Contact: kanemaverickai@gmail.com. Uptime: 858 days on GitHub. Repos: 16 public. Stars: 4 received. Commits: 82. Lines: +106,885 / −4,961</desc>
+<desc id="desc">Name: Kane Xie / KM. Host: Tongji University. Major: Marine Science. Focus: Underwater robotics. Interests: AI, physics, ocean engineering. Languages: Python, HTML, Dart. Contact: kanemaverickai@gmail.com. Uptime: 859 days on GitHub. Repos: 16 public. Stars: 4 received. Commits: 82. Lines: +106,885 / −4,961</desc>
 <style>text {font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace} .glyph {font-family: Menlo, Consolas, "Liberation Mono", monospace; font-size: 9px; font-weight: 700; white-space: pre} .bg {fill:#f8faf8} .border {fill:#cfd8d2} .fg {fill:#1c302b} .muted {fill:#52665e} .accent {fill:#16664d} .photo {fill:#172023} .ink {fill:#dae5dd} .rule, .frame {stroke:#cfd8d2} @media (prefers-color-scheme: dark) {.bg {fill:#101619} .border {fill:#303b3e} .fg {fill:#e4e9e6} .muted {fill:#a1b0ad} .accent {fill:#8bd4bc} .photo {fill:#101619} .ink {fill:#d5e2da} .rule, .frame {stroke:#303b3e}}</style>
 <rect x="0.5" y="0.5" width="375" height="609" rx="6" class="bg frame"/>
 <text x="20" y="28" class="muted" font-size="13" font-weight="400">~ $ neofetch</text>
@@ -54,7 +54,7 @@
 <text x="20" y="468" class="accent" font-size="13" font-weight="600">GitHub stats</text>
 <path d="M 130 464 H 356" class="rule"/>
 <text x="20" y="496" class="muted" font-size="13" font-weight="400">Uptime</text>
-<text x="119" y="496" class="fg" font-size="13" font-weight="400">858 days on GitHub</text>
+<text x="119" y="496" class="fg" font-size="13" font-weight="400">859 days on GitHub</text>
 <text x="20" y="519" class="muted" font-size="13" font-weight="400">Repos</text>
 <text x="119" y="519" class="fg" font-size="13" font-weight="400">16 public</text>
 <text x="20" y="542" class="muted" font-size="13" font-weight="400">Stars</text>
